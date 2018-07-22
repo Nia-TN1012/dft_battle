@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dft_parallel", "dft_parallel\dft_parallel.csproj", "{D680016D-518D-43B1-95A0-2D96D90FD1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D680016D-518D-43B1-95A0-2D96D90FD1C9}.Debug|x86.ActiveCfg = Debug|x86
+		{D680016D-518D-43B1-95A0-2D96D90FD1C9}.Debug|x86.Build.0 = Debug|x86
+		{D680016D-518D-43B1-95A0-2D96D90FD1C9}.Release|x86.ActiveCfg = Release|x86
+		{D680016D-518D-43B1-95A0-2D96D90FD1C9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 80
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.NewLinesForBracesInTypes = False
+		$2.NewLinesForBracesInMethods = False
+		$2.NewLinesForBracesInProperties = False
+		$2.NewLinesForBracesInAccessors = False
+		$2.NewLinesForBracesInAnonymousMethods = False
+		$2.NewLinesForBracesInControlBlocks = False
+		$2.NewLinesForBracesInAnonymousTypes = False
+		$2.NewLinesForBracesInObjectCollectionArrayInitializers = False
+		$2.NewLinesForBracesInLambdaExpressionBody = False
+		$2.SpaceWithinMethodDeclarationParenthesis = True
+		$2.SpaceWithinMethodCallParentheses = True
+		$2.SpaceWithinExpressionParentheses = True
+		$2.SpaceWithinCastParentheses = True
+		$2.SpaceWithinOtherParentheses = True
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
